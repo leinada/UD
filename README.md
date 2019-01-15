@@ -6,11 +6,11 @@
 
  - This project requires Python 3.x and NumPy,Pandas, matplotlib,scikit-learn, seaborn python libraries
 - Analysis includes,
- ** preprocessing of the data
- ** handling of missing data
- ** feature selection and re-encoding
- ** engineering of mixed type features
- ** feature transormation
- ** Dimensionality Reduction via PCA
- ** KMeans clustering
- ** Comparison of customer data to demographics Data
+  ** preprocessing of the data
+  ** handling of missing data
+  ** feature selection and re-encoding
+  ** engineering of mixed type features
+  ** feature transormation
+  ** Dimensionality Reduction via PCA
+  ** KMeans clustering
+  ** Comparison of customer data to demographics Data
