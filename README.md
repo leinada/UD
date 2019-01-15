@@ -46,7 +46,7 @@
 
 - In this project, we will train an image classifier to recognize different species of flowers.
 
-- - Notebook [here](https://github.com/leinada/UD/blob/master/imageClassifierUsing_pytorch/ImageClassifierProject.ipynb)
+- Notebook [here](https://github.com/leinada/UD/blob/master/imageClassifierUsing_pytorch/ImageClassifierProject.ipynb)
 
 
 - Analysis incudes
