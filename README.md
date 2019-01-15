@@ -1,6 +1,6 @@
 # Udacity related projects
 
-## 1. Identify Customer Segments to focus marketing resources
+## Project:1 Identify Customer Segments to focus marketing resources
 --------------------------------------------------------------
 
  - Apply unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns.
@@ -20,7 +20,7 @@
   * KMeans clustering.
   * Comparison of customer data to demographics data.
 
-## 2. Project: Finding Donors for CharityML
+## Project:2 Finding Donors for CharityML
 --------------------------------------------------------------
 
 - Apply supervised Learning techniques  to accurately model individuals' income using data collected from the 1994 U.S. Census. The best candidate algorithm from preliminary results is further optimized to get the best model for  the data. Goal is to  construct a model that accurately predicts whether an individual makes more than $50,000 per annum.
@@ -38,7 +38,7 @@
   * Extraction  of important features
 
 
-## 3. Project: Developing an AI application : Image classification
+## Project:3  Developing an AI application : Image classification
 
 --------------------------------------------------------------
 
