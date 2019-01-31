@@ -1,14 +1,12 @@
 # Udacity related projects
+## Details of Udacity the datascience nanodegree program (two semester)  is [here]( https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
 ## Project:1 Identify Customer Segments to focus marketing resources
 --------------------------------------------------------------
 
  - Apply unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns.
-
  - This project requires Python 3.x and NumPy,Pandas, matplotlib,scikit-learn, seaborn python libraries
-
 - Notebook [here](https://github.com/leinada/UD/blob/master/customer_segments/Identify_Customer_Segments.ipynb)
-
 - Analysis includes,
 
   * preprocessing of the data.
