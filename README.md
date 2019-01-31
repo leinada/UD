@@ -1,5 +1,5 @@
 # Udacity related projects
-##### Details of Udacity the datascience nanodegree program (two semester)  is [here]( https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+##### Details of Udacity the two semester datascience nanodegree program is available [here]( https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
 ### Project:1 Identify Customer Segments to focus marketing resources
 --------------------------------------------------------------
