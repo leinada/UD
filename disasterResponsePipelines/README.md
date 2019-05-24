@@ -3,13 +3,13 @@
 
 ## Table of Contents
 
-1. [Project Motivation](#project_motivation)
+1. [Project Motivation and details](#project_motivation)
 2. [Installation and file descriptions](#files)
 3. [Instructions](#instr)
 
-## Project Motivation<a name="project_motivation"></a>
+## Project Motivation and details<a name="project_motivation"></a>
 
-This project creates an ETL and machine learning pipeline to categorize real messages that were sent during disaster events. The aim is to send the  message  directly to the appropriate aid agencies after the categorization. This project includes development of a  web app where an emergency worker can input a new message and get classification results in several categories which was built using a machine learning model. The web app will also display visualizations of the data.
+This project creates an ETL and machine learning pipeline to categorize real messages that were sent during disaster events. The aim is to send the  message  directly to the appropriate aid agencies after the categorization. This project includes development of a  web app where an emergency worker can input a new message and get classification results in several categories which was built using a machine learning model. The ML script builds a pipeline that processes text and then performs multi-output classification on the 36 categories in the dataset. The web app uses the trained model to input text and return classication results and also display visualizations of the data.
 
 ## Installation and file descriptions <a name="files"></a>
 
@@ -23,7 +23,7 @@ The code contained in this repository was written in HTML and Python 3, and requ
 |- disaster_messages.csv   # csv file with messages data
 |- disaster_categories.csv # csv file with messages categories
 |- process_data.py         # ETL pipeline scripts to read, clean, and save data into a database
-|- DisasterResponse.db     # output database of the ETL pipeline
+|- DisasterResponse.db     # output SQLite database of the ETL pipeline
 
 - app
 | - template
