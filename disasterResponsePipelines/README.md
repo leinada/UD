@@ -13,9 +13,6 @@ This project creates an ETL and machine learning pipeline to categorize real mes
 
 ## Installation and file descriptions <a name="files"></a>
 
-The code contained in this repository was written in HTML and Python 3, and requires the following Python packages: json, plotly, pandas, nltk, flask, sklearn, sqlalchemy, sys, numpy, re, pickle, warnings
-
-
 #### Files:
 
 ```
@@ -40,6 +37,7 @@ The code contained in this repository was written in HTML and Python 3, and requ
 ```
 
 #### Required packages:
+- Python 3
 - flask
 - json
 - joblib
