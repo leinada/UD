@@ -1,4 +1,4 @@
-# Sparkify project
+# Predicting customer churns with Spark
 
 ### Table of Contents
 
@@ -42,7 +42,15 @@ Sparkify is a music app, this dataset contains two months of sparkify user behav
 
 According to the results of the model, it is the frequency of Thumbs Down that has the greatest impact. Churn users have more Thumbs Down. Naturally, users will leave if they are not satisfied.
 
-I post a blog about the detail, you can find it [here](https://medium.com/).
+udacity goals for this project
+Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes
+Use the machine learning APIs within Spark ML to build and tune models
+Integrate the skills you've learned in the Spark course and the Data Scientist Nanodegree program
+
+
+
+I posted a blog with more detail, you can find it [here](https://medium.com/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
+The dataset is provided by Udacity team. Analysis of the medium data set is accomplished via IBM watson studio 
