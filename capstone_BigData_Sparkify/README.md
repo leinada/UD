@@ -49,9 +49,9 @@ Analysis involving  Spark environment was done on  IBM Cloud (runtime with Spark
 
 Model performance on validation  data from medium set:
 
-|accuracy score|PySpark F1 score|
+    |Accuracy score|PySpark F1 score|
     |--------|--------|
-    | 0.825 | 0.7889 |
+    | 0.825  | 0.7889 |
 
 According to the results of the model, it is the frequency of Thumbs Down that has the greatest impact. Churn users have more Thumbs Down. Naturally, users will leave if they are not satisfied.
 
