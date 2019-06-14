@@ -49,7 +49,8 @@ Analysis involving  Spark environment was done on  IBM Cloud (runtime with Spark
 
 Model performance on validation  data from medium set:
 
-    |Accuracy score|PySpark F1 score|
+    |Accuracy score|PySpark  |
+    |              | F1 score|
     |--------|--------|
     | 0.825  | 0.7889 |
 
