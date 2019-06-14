@@ -1,4 +1,4 @@
-# Predicting customer churns with Spark
+# Predicting customer churn with Spark and cloud computing
 
 ### Table of Contents
 
@@ -10,9 +10,9 @@
 
 ## Project Motivation<a name="motivation"></a>
 
-This is Udacity's capstone project. Sparkify is a music app, this data set contains two months of sparkify user behavior log.  The goal of the project is to predict churned users based on user activities and attributes. Being able to predict churn can help the  company to prioritize their retention program on customers who are most likely to churn, and potentially saving millions in revenue
+This is Udacity's capstone project. Sparkify is a music app, this data set contains two months of sparkify user behavior log.  The goal of the project is to predict churned users based on user activities and attributes. Being able to predict churn can help the  company to prioritize their retention program on customers who are most likely to churn, and potentially save millions in revenue.
 
-Check out the [blog post ](https://medium.com/) post for more details
+Check out the [blog post ](https://medium.com/@dradpk/customerchurnwithpysparkonibmwatsonstudio-c34d9107e6c) post for more details
 
 ## Installation <a name="installation"></a>
 
