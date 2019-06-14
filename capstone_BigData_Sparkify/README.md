@@ -14,10 +14,11 @@
 
 This is Udacity's capstone project. Sparkify is a music app, this dataset contains two months of sparkify user behavior log.  The goal of the project is to predict churned users based on user activites and attributes. Being able to predict churn can help the  company to prioritize their retention program on customers who are most likely to churn, and potentially saving millions in revenue
 
+Check out the [blog post ](https://medium.com/) post for more details
+
 ## Installation <a name="installation"></a>
 
 This project uses the following software and Python libraries:
-
 
 - Python 3.6
 - json
@@ -43,9 +44,14 @@ Analysis involving  Spark environment was done on  IBM Cloud (runtime with Spark
 - Sparkify_ML_medium_ibm.ipynb                #notebook for feature engineering and model development
 
 ```
-**Sprakify .ipynb** Main file of the project, it demonstrates the process of using pyspark to explore the data and build the model.
 
 ## Result
+
+Model performance on validation  data from medium set:
+
+|accuracy score|PySpark F1 score|
+    |--------|--------|
+    | 0.825 | 0.7889 |
 
 According to the results of the model, it is the frequency of Thumbs Down that has the greatest impact. Churn users have more Thumbs Down. Naturally, users will leave if they are not satisfied.
 
