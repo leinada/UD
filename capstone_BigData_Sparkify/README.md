@@ -1,4 +1,4 @@
-# Predicting customer churn with Spark and cloud computing
+# Predicting customer churn with Spark using cloud computing
 
 ### Table of Contents
 
