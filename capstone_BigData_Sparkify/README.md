@@ -12,7 +12,7 @@
 
 This is Udacity's capstone project. Sparkify is a music app, this data set contains two months of sparkify user behavior log.  The goal of the project is to predict churned users based on user activities and attributes. Being able to predict churn can help the  company to prioritize their retention program on customers who are most likely to churn, and potentially save millions in revenue.
 
-Check out the [blog post ](https://medium.com/@dradpk/customerchurnwithpysparkonibmwatsonstudio-c34d9107e6c) post for more details
+Check out the [blog post ](https://medium.com/@dradpk/customerchurnwithpysparkonibmwatsonstudio-828a209cfdec) post for more details
 
 ## Installation <a name="installation"></a>
 
