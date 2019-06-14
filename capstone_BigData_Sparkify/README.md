@@ -2,40 +2,47 @@
 
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
+1. [Project Motivation](#motivation)
+2. [Installation](#installation)
 3. [Files Description](#files)
 4. [Result](#Result)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
+
+
+
+## Project Motivation<a name="motivation"></a>
+
+This is Udacity's capstone project. Sparkify is a music app, this dataset contains two months of sparkify user behavior log.  The goal of the project is to predict churned users based on user activites and attributes. Being able to predict churn can help the  company to prioritize their retention program on customers who are most likely to churn, and potentially saving millions in revenue
 
 ## Installation <a name="installation"></a>
 
 This project uses the following software and Python libraries:
 
-Python
 
-Spark
-
-Pyspark
-
-pandas
-
-Matplotlib
-
-Seaborn
+- Python 3.6
+- json
+- pandas
+- numpy
+- sklearn
+- re
+- Spark 2.3
+- Pyspark
+- Matplotlib
+- seaborn
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
 
-If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. And for Spark, you can do this using AWS or IBM Cloud.
+Analysis involving  Spark environment was done on  IBM Cloud (runtime with Spark Python 3.6XS (Driver with 1vCPU and 4GB RAM and 2 executors each with 1 vCPU and 4 GB RAM).
 
-## Project Motivation<a name="motivation"></a>
-
-This is udacity's capstone project, using spark to analyze user behavior data from music app Sparkify.
-
-Sparkify is a music app, this dataset contains two months of sparkify user behavior log. The log contains some basic information about the user as well as information about a single action. A user can contain many entries. In the data, a part of the user is churned, through the cancellation of the account behavior can be distinguished.
 
 ## Files Description<a name="files"></a>
 
+```
+- Sparkify_EDA_mini.ipynb                     #notebook for EDA with mini data set
+- Sparkify_featModelTuning_mini_ibm.ipynb     #notebook for feature engineering and model development
+- Sparkify_ML_medium_ibm.ipynb                #notebook for feature engineering and model development
+
+```
 **Sprakify .ipynb** Main file of the project, it demonstrates the process of using pyspark to explore the data and build the model.
 
 ## Result
