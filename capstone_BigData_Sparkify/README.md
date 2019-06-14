@@ -6,9 +6,7 @@
 2. [Installation](#installation)
 3. [Files Description](#files)
 4. [Result](#Result)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
-
-
+5. [Acknowledgements](#ack)
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -31,9 +29,7 @@ This project uses the following software and Python libraries:
 - Matplotlib
 - seaborn
 
-You will also need to have software installed to run and execute a Jupyter Notebook.
-
-Analysis involving  Spark environment was done on  IBM Cloud (runtime with Spark Python 3.6XS (Driver with 1vCPU and 4GB RAM and 2 executors each with 1 vCPU and 4 GB RAM).
+You will also need to have software installed to run and execute a Jupyter Notebook. Analysis involving  Spark environment was done on  IBM Cloud (runtime with Spark Python 3.6XS (Driver with 1vCPU and 4GB RAM and 2 executors each with 1 vCPU and 4 GB RAM).
 
 
 ## Files Description<a name="files"></a>
@@ -45,7 +41,7 @@ Analysis involving  Spark environment was done on  IBM Cloud (runtime with Spark
 
 ```
 
-## Result
+## Result<a name="Result"></a>
 
 Model performance on validation  data from medium set:
 
@@ -54,17 +50,9 @@ Model performance on validation  data from medium set:
     |--------|--------|
     | 0.825  | 0.7889 |
 
-According to the results of the model, it is the frequency of Thumbs Down that has the greatest impact. Churn users have more Thumbs Down. Naturally, users will leave if they are not satisfied.
+According to the results of the model,
+The number of days the user active in the site has big impact. Next one is the number of advertisements the user sees followed by  average number of songs listened per session. Total thumbs up and thumps down also has reasonable effect on the users decision to continue with the service or not.
 
-udacity goals for this project
-Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes
-Use the machine learning APIs within Spark ML to build and tune models
-Integrate the skills you've learned in the Spark course and the Data Scientist Nanodegree program
-
-
-
-I posted a blog with more detail, you can find it [here](https://medium.com/).
-
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Acknowledgements<a name="ack"></a>
 
 The dataset is provided by Udacity team. Analysis of the medium data set is accomplished via IBM watson studio 
