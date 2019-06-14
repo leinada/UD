@@ -6,11 +6,11 @@
 2. [Installation](#installation)
 3. [Files Description](#files)
 4. [Result](#Result)
-5. [Acknowledgements](#ack)
+5. [Acknowledgments](#ack)
 
 ## Project Motivation<a name="motivation"></a>
 
-This is Udacity's capstone project. Sparkify is a music app, this dataset contains two months of sparkify user behavior log.  The goal of the project is to predict churned users based on user activites and attributes. Being able to predict churn can help the  company to prioritize their retention program on customers who are most likely to churn, and potentially saving millions in revenue
+This is Udacity's capstone project. Sparkify is a music app, this data set contains two months of sparkify user behavior log.  The goal of the project is to predict churned users based on user activities and attributes. Being able to predict churn can help the  company to prioritize their retention program on customers who are most likely to churn, and potentially saving millions in revenue
 
 Check out the [blog post ](https://medium.com/) post for more details
 
@@ -50,9 +50,8 @@ Model performance on validation  data from medium set:
     |--------|--------|
     | 0.825  | 0.7889 |
 
-According to the results of the model,
-The number of days the user active in the site has big impact. Next one is the number of advertisements the user sees followed by  average number of songs listened per session. Total thumbs up and thumps down also has reasonable effect on the users decision to continue with the service or not.
+According to the results of the model, the number of days the user was active on the site has big impact. Next one is the number of advertisements the user encounters  followed by  average number of songs listened per session. Total thumbs up and thumps down also has reasonable effect on the users decision to continue with the service or not.
 
-## Acknowledgements<a name="ack"></a>
+## Acknowledgments<a name="ack"></a>
 
-The dataset is provided by Udacity team. Analysis of the medium data set is accomplished via IBM watson studio 
+The data set is provided by Udacity team. Analysis of the medium data set is accomplished via IBM watson studio 
