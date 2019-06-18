@@ -2,7 +2,7 @@
 
 ## Project Motivation and details
 
-This project contains an analysis of data collected by Stack Overflow as part of their annual 2018 developer survey. The data can be downloaded from: https://insights.stackoverflow.com/survey/2018
+This project contains an analysis of the data collected by Stack Overflow as part of their annual 2018 developer survey.
 
 In this project we will try to understand more about data science field, with the help of data. This project is intended to help individuals considering new career as data scientists; to help them make informed decisions about their career choice. We would try to answer three real world questions using the CRISP-DM Process (Cross Industry Process for Data Mining).
 
