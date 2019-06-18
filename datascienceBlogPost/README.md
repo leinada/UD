@@ -1,6 +1,6 @@
 # 2018 stack overflow survey data analysis
 
-## Project Motivation and details
+## Project motivation and details
 
 This project contains an analysis of the data collected by Stack Overflow as part of their annual 2018 developer survey.
 
