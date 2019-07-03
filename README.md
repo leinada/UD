@@ -18,20 +18,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## Project 3: Identify Customer Segments to focus marketing resources
 --------------------------------------------------------------
  - Applied unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns.
-- Notebook [here](https://nbviewer.jupyter.org/github/leinada/Udacity/blob/master/project2_imageClassifierUsingPyTorch/ImageClassifierProject.ipynb)
+- Analysis [here](https://github.com/leinada/Udacity/tree/master/project3_customerSegmentation)
 
 
 
