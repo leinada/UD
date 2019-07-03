@@ -2,11 +2,9 @@
 ##### Details of Udacity the two semester datascience nanodegree program is available [here]( https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
 
-
-
 ## Project 1: Finding Donors for CharityML
 --------------------------------------------------------------
-- Applied supervised learning techniques  to accurately model individual's income using data collected from the 1994 U.S. Census. The best candidate algorithm from preliminary results is further optimized to get the best model for  the data. Goal was to  construct a model that accurately predicts whether an individual makes more than $50,000 per annum.
+- Applied supervised learning techniques  to accurately model individual's income using data collected from the 1994 U.S. Census. The best candidate algorithm from preliminary results was further optimized to get the best model for  the data. Goal was to  construct a model that accurately predicts whether an individual makes more than $50,000 per annum.
 
 - Analysis [here](https://github.com/leinada/Udacity/tree/master/project1_findingDonors)
 
@@ -16,7 +14,7 @@
 - In this project, I  trained  an image classifier to recognize different species of flowers. We will be building  a deep learning neural network using PyTorch to identify 102 different species of flowers. We will  load a pretrained model and use  transfer learning techniques for this project 
 
 
-- Notebook [here](https://github.com/leinada/UD/blob/master/imageClassifierUsing_pytorch/ImageClassifierProject.ipynb)
+-  Analysis [here](https://github.com/leinada/Udacity/tree/master/project2_imageClassifierUsingPyTorch)
 
 
 
