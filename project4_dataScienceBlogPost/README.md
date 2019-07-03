@@ -17,6 +17,8 @@ In this project we will try to understand more about data science field, with th
 ```
 To run this code, you need to download the 2018 Stack Overflow Develop Survey dataset from https://insights.stackoverflow.com/survey.
 
+- Notebook [here](https://nbviewer.jupyter.org/github/leinada/Udacity/tree/master/project4_dataScienceBlogPost/stackOverflow_2018_analysis.ipynb)
+
 ## Results
 
 
