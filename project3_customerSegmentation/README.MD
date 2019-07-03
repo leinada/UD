@@ -1,8 +1,8 @@
-### Project 2: Identify Customer Segments to focus marketing resources
+### Project 3: Identify Customer Segments to focus marketing resources
 --------------------------------------------------------------
  - Applied unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns.
  - This project requires Python 3.x and NumPy,Pandas, matplotlib,scikit-learn, seaborn python libraries
-- Notebook [here](https://nbviewer.jupyter.org/githubleinada/Udacity/blob/master/project2_imageClassifierUsingPyTorch/ImageClassifierProject.ipynb)
+- Notebook [here](https://nbviewer.jupyter.org/github/leinada/Udacity/blob/master/project2_imageClassifierUsingPyTorch/ImageClassifierProject.ipynb)
 - Analysis includes,
 
   * preprocessing of the data.

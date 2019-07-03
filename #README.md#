@@ -17,11 +17,16 @@
 
 
 - Notebook [here](https://github.com/leinada/UD/blob/master/imageClassifierUsing_pytorch/ImageClassifierProject.ipynb)
-- Analysis incudes
-  * Loading and dataset using PyTorch
-  * Use one of the pretrained models from torchvision.models, build and train the classifier viatransfer learning
-  * Inference for classification
-  * Class Prediction using the developed model
+
+
+
+
+
+
+
+
+
+
 
 
 
