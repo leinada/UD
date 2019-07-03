@@ -8,7 +8,7 @@
 --------------------------------------------------------------
 - Applied supervised learning techniques  to accurately model individual's income using data collected from the 1994 U.S. Census. The best candidate algorithm from preliminary results is further optimized to get the best model for  the data. Goal was to  construct a model that accurately predicts whether an individual makes more than $50,000 per annum.
 
-- Notebook [here](https://nbviewer.jupyter.org/github/leinada/Udacity/blob/master/project1_findingDonors/finding_donors.ipynb)
+- Analysis [here](github.com/leinada/Udacity/blob/master/project1_findingDonors/)
 
 
 ## Project 2:  Developing an AI application : Image classification
