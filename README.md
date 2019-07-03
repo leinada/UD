@@ -37,9 +37,9 @@ Recommendation engines are one of the most important data science applications. 
 
 - Analysis [here](https://github.com/leinada/Udacity/tree/master/project6_recommendationSystem)
 
-## Project 7: Capstone project,  Predicting customer churn with Spark using cloud computing
+## Project 7: Capstone project, predicting customer churn with Spark using cloud computing
 --------------------------------------------------------------
 Sparkify is a music app, this data set contains two months of sparkify user behavior log.  The goal of the project is to predict churned users based on user activities and attributes. Being able to predict churn can help the  company to prioritize their retention program on customers who are most likely to churn, and potentially save millions in revenue.
 
-- Analysis [here](https://github.com/leinada/Udacity/tree/master/project6_recommendationSystem)
+- Analysis [here](https://github.com/leinada/Udacity/tree/master/project7_capstoneBigDataSparkify)
 
