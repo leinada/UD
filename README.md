@@ -25,7 +25,10 @@
 
 
 
+## Project 4 - Data Science Blog
+--------------------------------------------------------------
+- In this project, I analyzed the 2018 Stack Overflow developer survey data to understand more about data science field. This project was intended to help individuals considering new career as data scientists; to help them make informed decisions about their career choice. We would try to answer three real world questions using the CRISP-DM Process (Cross Industry Process for Data Mining).
 
-
+- Analysis [here](https://github.com/leinada/Udacity/tree/master/project3_customerSegmentation)
 
 
