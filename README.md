@@ -1,7 +1,7 @@
 # Udacity related projects
 ##### Details of Udacity the two semester datascience nanodegree program is available [here]( https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
-Syllabus includes: [ for semester 1](https://github.com/leinada/Udacity/blob/master/DataScientistNanodegree_sem1.pdf) and [for semester 2](https://github.com/leinada/Udacity/blob/master/DataScientistNanodegree_sem2.pdf)
+Syllabus for: [ semester 1](https://github.com/leinada/Udacity/blob/master/DataScientistNanodegree_sem1.pdf) and for [ semester 2](https://github.com/leinada/Udacity/blob/master/DataScientistNanodegree_sem2.pdf)
 
 
 ## Project 1: Finding Donors for CharityML
