@@ -36,3 +36,10 @@ This project creates an ETL and machine learning pipeline to categorize real mes
 Recommendation engines are one of the most important data science applications. Data science is being used to recommend things such asmusic, movies , books, new destinations etc. In this project, I analysed the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles I think they will like. This project will serve as a prototype of the recommender systems of the article recommendation systems of IBM
 
 - Analysis [here](https://github.com/leinada/Udacity/tree/master/project6_recommendationSystem)
+
+## Project 7: Capstone project,  Predicting customer churn with Spark using cloud computing
+--------------------------------------------------------------
+Sparkify is a music app, this data set contains two months of sparkify user behavior log.  The goal of the project is to predict churned users based on user activities and attributes. Being able to predict churn can help the  company to prioritize their retention program on customers who are most likely to churn, and potentially save millions in revenue.
+
+- Analysis [here](https://github.com/leinada/Udacity/tree/master/project6_recommendationSystem)
+
