@@ -25,10 +25,12 @@
 
 
 
-## Project 4 - Data Science Blog
+## Project 4: Data Science Blog
 --------------------------------------------------------------
 - In this project, I analyzed the 2018 Stack Overflow developer survey data to understand more about data science field. This project was intended to help individuals considering new career as data scientists; to help them make informed decisions about their career choice. We would try to answer three real world questions using the CRISP-DM Process (Cross Industry Process for Data Mining).
 
 - Analysis [here](https://github.com/leinada/Udacity/tree/master/project4_dataScienceBlogPost)
 
-
+## Project 5: Disaster Response Pipeline 
+--------------------------------------------------------------
+This project creates an ETL and machine learning pipeline to categorize real messages that were sent during disaster events. The aim is to send the  message  directly to the appropriate aid agencies after the categorization. This project includes development of a  web app where an emergency worker can input a new message and get classification results in several categories which was built using a machine learning model.
