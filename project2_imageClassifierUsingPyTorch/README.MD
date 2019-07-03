@@ -17,15 +17,3 @@
   * Inference for classification
   * Class Prediction using the developed model
 
-
-
-
-
-  * preprocessing of the data.
-  * handling of missing data.
-  * feature selection and re-encoding.
-  * engineering of mixed type features.
-  * feature transormation.
-  * Dimensionality Reduction via PCA.
-  * KMeans clustering.
-  * Comparison of customer data to demographics data.
