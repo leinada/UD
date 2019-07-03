@@ -8,22 +8,16 @@
 
 - Analysis [here](https://github.com/leinada/Udacity/tree/master/project1_findingDonors)
 
-
 ## Project 2:  Developing an AI application : Image classification
 --------------------------------------------------------------
 - In this project, I  trained  an image classifier to recognize different species of flowers. We will be building  a deep learning neural network using PyTorch to identify 102 different species of flowers. We will  load a pretrained model and use  transfer learning techniques for this project 
 
-
 -  Analysis [here](https://github.com/leinada/Udacity/tree/master/project2_imageClassifierUsingPyTorch)
-
-
 
 ## Project 3: Identify Customer Segments to focus marketing resources
 --------------------------------------------------------------
  - Applied unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns.
 - Analysis [here](https://github.com/leinada/Udacity/tree/master/project3_customerSegmentation)
-
-
 
 ## Project 4: Data Science Blog
 --------------------------------------------------------------
@@ -34,3 +28,5 @@
 ## Project 5: Disaster Response Pipeline 
 --------------------------------------------------------------
 This project creates an ETL and machine learning pipeline to categorize real messages that were sent during disaster events. The aim is to send the  message  directly to the appropriate aid agencies after the categorization. This project includes development of a  web app where an emergency worker can input a new message and get classification results in several categories which was built using a machine learning model.
+
+- Analysis [here](https://github.com/leinada/Udacity/tree/master/project5_disasterResponsePipelines)
